@@ -6,9 +6,17 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+I'm currently on my 3rd year of university at U.A.M.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+I'm not an average student, I'm a student that is always looking for new ways to improve myself. I've always been interested in technology and I've always been curious about how things work. I'm a person that likes to learn new things and I'm always looking for new challenges.
+
+## Some of my skills are:
+*   Problem-solving skills
+*   Cybersecurity skills
+*   Programming skills
+*   Teamwork
+*   Communication skills
+*   Leadership skills
 
 # Header 1
 
@@ -94,7 +102,7 @@ end
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![hakr](static/aa.webp)
 
 ### Large image
 
