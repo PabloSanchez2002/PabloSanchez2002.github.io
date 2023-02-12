@@ -23,6 +23,7 @@ layout: default
 *   Leadership skills
 
 ![hakr](static/aa.webp)
+{% youtube "https://www.youtube.com/watch?v=_idwF9qYBSA" %}
 
 ```
 The final element.

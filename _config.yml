@@ -3,3 +3,6 @@ description: Hi, I'm Pablo Sanchez, a computer engineer from Spain. I'm interest
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
+plugins:
+- jekyll-feed
+- jekyll-youtube
