@@ -10,8 +10,8 @@ layout: default
 ~~Sorry if my code succs I try my best :)~~
 
 * [Web page using Django](./another-page.html).
-
-
+* [???](./another-page.html).
+* [???](./another-page.html).
 
 ## Some of my skills are:
 *   Problem-solving skills
