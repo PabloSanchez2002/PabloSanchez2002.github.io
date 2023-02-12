@@ -6,8 +6,8 @@ layout: default
 ### I'm currently on my 3rd year of university at U.A.M.
 ### I'm not an average student, I'm a student that is always looking for new ways to improve myself. I've always been interested in technology and I've always been curious about how things work. I'm a person that likes to learn new things and I'm always looking for new challenges.
 
-** This is how you can reach me:
-<p align="left"> <a href="https://www.instagram.com/pablos_fp45/" target="blank"><img src="static/insta.png" alt="instagram" width="40" height="40"/></a>
+_This is how you can reach me:_
+<p align="left"> <a href="https://www.instagram.com/pablos_fp45/" target="blank"><img src="static/inst.png" alt="instagram" width="40" height="40"/></a>
 <a href="https://www.linkedin.com/in/pablo-sanchez-fdp-54b760256/" target="blank"><img src="static/link.png" alt="LinkedIn" width="40" height="40"/></a>
 <a href="https://wa.me/+34644693637" target="blank"><img src="static/was.png" alt="LinkedIn" width="40" height="40"/></a>
 <a href="Mailto:pablosanchez2002@gmail.com" target="blank"><img src="static/mail.png" alt="Google Mail" width="40" height="40"/></a> </p>
