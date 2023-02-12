@@ -6,7 +6,11 @@ layout: default
 ### I'm currently on my 3rd year of university at U.A.M.
 ### I'm not an average student, I'm a student that is always looking for new ways to improve myself. I've always been interested in technology and I've always been curious about how things work. I'm a person that likes to learn new things and I'm always looking for new challenges.
 
-<p align="left"> <a href="https://twitter.com/0xhakr" target="blank"><img src="https://img.shields.io/twitter/follow/0xhakr?logo=twitter&style=for-the-badge" alt="0xhakr" /></a> </p>
+** Here is how you can rech me:
+<p align="left"> <a href="https://www.instagram.com/pablos_fp45/" target="blank"><img src="static/insta.png" alt="instagram" /></a>
+<a href="https://www.linkedin.com/in/pablo-sanchez-fdp-54b760256/" target="blank"><img src="static/link.png" alt="LinkedIn" /></a>
+<a href="https://wa.me/+34644693637" target="blank"><img src="static/was.png" alt="LinkedIn" /></a>
+<a href="Mailto:pablosanchez2002@gmail.com" target="blank"><img src="static/mail.png" alt="Google Mail" /></a> </p>
 
 # My projects and other stuff I may make:
 ~~Sorry if my code succs I try my best :)~~
