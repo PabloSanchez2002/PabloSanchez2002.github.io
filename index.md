@@ -2,13 +2,16 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# I'm currently on my 3rd year of university at U.A.M.
 
-[Link to another page](./another-page.html).
+# I'm not an average student, I'm a student that is always looking for new ways to improve myself. I've always been interested in technology and I've always been curious about how things work. I'm a person that likes to learn new things and I'm always looking for new challenges.
 
-I'm currently on my 3rd year of university at U.A.M.
+**My projects and other stuff I may make:**
+~~Sorry if my code sucs I try my best :)~~
 
-I'm not an average student, I'm a student that is always looking for new ways to improve myself. I've always been interested in technology and I've always been curious about how things work. I'm a person that likes to learn new things and I'm always looking for new challenges.
+* [Web page using Django](./another-page.html).
+
+
 
 ## Some of my skills are:
 *   Problem-solving skills
