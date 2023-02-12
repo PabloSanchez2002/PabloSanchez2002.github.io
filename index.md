@@ -23,7 +23,7 @@ layout: default
 *   Leadership skills
 
 ![hakr](static/aa.webp)
-{% youtube "https://www.youtube.com/watch?v=_idwF9qYBSA" %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ```
 The final element.
