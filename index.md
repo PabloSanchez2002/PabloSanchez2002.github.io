@@ -12,7 +12,7 @@ layout: default
 <a href="https://wa.me/+34644693637" target="blank"><img src="static/was.png" alt="LinkedIn" width="40" height="40"/></a>
 <a href="Mailto:pablosanchez2002@gmail.com" target="blank"><img src="static/mail.png" alt="Google Mail" width="40" height="40"/></a> </p>
 
-# My projects and other stuff I may make:
+## My projects and other stuff I may make:
 ~~Sorry if my code succs I try my best :)~~
 
 1. [Web page using Django](./another-page.html).
