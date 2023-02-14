@@ -15,9 +15,9 @@ _This is how you can reach me:_
 ## My projects and other stuff I may make:
 ~~Sorry if my code succs I try my best :)~~
 
-1. [Web page using Django](./another-page.html).
-2. [???](./another-page.html).
-3. [???](./another-page.html).
+1. [Web page using Django](./blog1.html).
+2. [???](./blog1.html).
+3. [???](./blog1.html).
 
 ## Some of my skills are:
 *   Problem-solving skills
