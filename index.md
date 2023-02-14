@@ -38,7 +38,7 @@ _This is how you can reach me:_
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://1000marcas.net/wp-content/uploads/2021/06/Django-Logo.png" alt="django" width="40" height="40"/> </a> <a href="https://en.wikipedia.org/wiki/VHDL" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/xeuSfQHt8wEb-JdcXLtReGF-KO8_Rd2UMOL0vSB6bS9qlxdAGQ0VR4mM9wVeEb76EA" alt="django" width="40" height="40"/> </a></p>
 
 ## Visitas totales:
-[![Hits](https://hits.sh/pablosanchez2002.github.io.svg?color=1d8fff)](https://hits.sh/pablosanchez2002.github.io/)
+[![Hits](https://hits.sh/pablosanchez2002.github.io.svg?color=20C20E)](https://hits.sh/pablosanchez2002.github.io/)
 
 
 ![hakr](static/aa.webp)
