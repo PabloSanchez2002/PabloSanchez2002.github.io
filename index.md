@@ -29,7 +29,7 @@ _This is how you can reach me:_
 *   Leadership skills
 
 ## I speak:
-*   Sapnish Native
+*   Spanish Native
 *   English Advanced level
 *   French Basic level
 
