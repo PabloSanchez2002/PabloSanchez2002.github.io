@@ -46,7 +46,7 @@ _This is how you can reach me:_
 
 <script src="https://utteranc.es/client.js"
     repo="PabloSanchez2002/blog_comments"
-    issue-term="pathname"
+    issue-term="Comments"
     theme="github-dark"
     crossorigin="anonymous"
     async>
