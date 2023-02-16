@@ -1,4 +1,4 @@
-# This web page uses The Hacker theme
+# This web page uses a jekyll theme.
 
 [Build Status](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-hacker.svg)](https://badge.fury.io/rb/jekyll-theme-hacker)
 
