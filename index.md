@@ -45,11 +45,11 @@ _This is how you can reach me:_
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://1000marcas.net/wp-content/uploads/2021/06/Django-Logo.png" alt="django" width="40" height="40"/> </a> <a href="https://en.wikipedia.org/wiki/VHDL" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/xeuSfQHt8wEb-JdcXLtReGF-KO8_Rd2UMOL0vSB6bS9qlxdAGQ0VR4mM9wVeEb76EA" alt="django" width="40" height="40"/> </a></p>
 
 <script src="https://utteranc.es/client.js"
-        repo="https://github.com/PabloSanchez2002/PabloSanchez2002.github.io.git"
-        issue-term="Comentarios"
-        theme="github-dark"
-        crossorigin="anonymous"
-        async>
+    repo="rmsrosa/blog_comments"
+    issue-term="pathname"
+    theme="github-light"
+    crossorigin="anonymous"
+    async>
 </script>
 
 
