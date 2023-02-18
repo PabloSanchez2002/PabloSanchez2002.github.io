@@ -22,8 +22,8 @@ _This is how you can reach me:_
 ## My projects and other stuff I may make:
 ~~Sorry if my code succs I try my best :)~~
 
-1. [Web page using Django](./blog1.html).
-2. [???](./blog0.html).
+1. [Server Web using Django framework](./blog1.html).
+2. [Web page built on Github Pages](./blog2.html).
 3. [???](./blog0.html).
 
 ## Some of my skills are:
