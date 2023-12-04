@@ -14,17 +14,17 @@ layout: default
 ### I'm not an average student, I'm a student that is always looking for new ways to improve myself. I've always been interested in technology and I've always been curious about how things work. I'm a person that likes to learn new things and I'm always open to try new technologies.
 
 _This is how you can reach me:_
-<p align="left"> <a href="https://www.instagram.com/pablos_fp45/" target="blank"><img src="static/inst.png" alt="instagram" width="40" height="40"/></a>
-<a href="https://www.linkedin.com/in/pablo-sanchez-fdp-54b760256/" target="blank"><img src="static/link.png" alt="LinkedIn" width="40" height="40"/></a>
-<a href="https://wa.me/+34644693637" target="blank"><img src="static/was.png" alt="LinkedIn" width="40" height="40"/></a>
-<a href="Mailto:pablosanchez2002@gmail.com" target="blank"><img src="static/mail.png" alt="Google Mail" width="40" height="40"/></a> </p>
+<p align="left"> <a href="https://www.instagram.com/pablos_fp45/" target="blank"><img src="assets/images/inst.png" alt="instagram" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/pablo-sanchez-fdp-54b760256/" target="blank"><img src="assets/images/link.png" alt="LinkedIn" width="40" height="40"/></a>
+<a href="https://wa.me/+34644693637" target="blank"><img src="assets/images/was.png" alt="LinkedIn" width="40" height="40"/></a>
+<a href="Mailto:pablosanchez2002@gmail.com" target="blank"><img src="assets/images/mail.png" alt="Google Mail" width="40" height="40"/></a> </p>
 
 ## My projects and other stuff I may make:
 ~~Sorry if my code succs I try my best :)~~
 
-1. [Server Web using Django framework](./blog1.html).
-2. [Web page built on Github Pages](./blog2.html).
-3. [???](./blog0.html).
+1. [Server Web using Django framework](./blogs/blog1.html).
+2. [Web page built on Github Pages](./blogs/blog2.html).
+3. [???](./blogs/blog0.html).
 
 ## Some of my skills are:
 *   Problem-solving skills
@@ -54,14 +54,9 @@ _This is how you can reach me:_
 </script>
 
 
-![hakr](static/aa.webp)
+![hakr](assets/images/aa.webp)
 
 ## Visitas totales:
 [![Hits](https://hits.sh/pablosanchez2002.github.io.svg?color=20C20E)](https://hits.sh/pablosanchez2002.github.io/)
 
-
-
-```
-albion online es un mmorpg no lineal en el que escribes tu propia historia sin limitarte a seguir un camino prefijado, explora un amplio mundo abierto con cinco biomas unicos, todo cuanto hagas tendra su repercusíon en el mundo, con su economia orientada al jugador de albion los jugadores crean practicamente todo el equipo a partir de los recursos que consiguen, el equipo que llevas define quien eres, cambia de arma y armadura para pasar de caballero a mago o juego como una mezcla de ambas clases, aventurate en el mundo abierto y haz frente a los habitantes y las criaturas de albion, inicia expediciones o adentrate en mazmorras en las que encontraras enemigos aun mas dificiles, enfrentate a otros jugadores en encuentros en el mundo abierto, lucha por los territorios o por ciudades enteras en batallas tacticas, relajate en tu isla privada donde podras construir un hogar, cultivar cosechas, criar animales, unete a un gremio, todo es mejor cuando se trabaja en grupo [musica] adentrate ya en el mundo de albion y escribe tu propia historia.
-```
 
