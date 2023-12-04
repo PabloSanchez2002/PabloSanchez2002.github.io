@@ -30,17 +30,8 @@ Now that you have copied the Jekyll theme files to your repository, you need to 
 
 With the Jekyll theme set up and configured, you can now add your own content to the website. You can create new pages by adding new Markdown files to the repository. These files should be saved in the root directory or in a subdirectory, depending on the theme's file structure. You can also add images and other media to your website by saving them in the assets directory.
 
-### Step 7: Test Your Website Locally
 
-Before you push your changes to GitHub, it's a good idea to test your website locally. You can do this by running Jekyll on your local machine. To do this, navigate to your repository in the command line and run the following command:
-
-    ```console
-    $ jekyll serve
-    ```
-
-This will start a local server on port 4000. You can view your website by navigating to http://localhost:4000/ in your browser.
-
-### Step 8: Push Your Changes to GitHub
+### Step 7: Push Your Changes to GitHub
 
 Once you have tested your website locally, you can push your changes to GitHub. To do this, navigate to your repository in the command line and run the following commands:
 
@@ -50,15 +41,15 @@ Once you have tested your website locally, you can push your changes to GitHub. 
     $ git push origin master
     ```
 
-### Step 9: Configure GitHub Pages
+### Step 8: Configure GitHub Pages
 
 Now that you have pushed your changes to GitHub, you need to configure GitHub Pages to serve your website. To do this, navigate to your repository on GitHub and click on the "Settings" tab. Then, scroll down to the "GitHub Pages" section and click on the "Choose a theme" button. Select the theme you want to use and click on the "Select theme" button. Finally, click on the "Save" button to save your changes.
 
-### Step 10: View Your Website
+### Step 9: View Your Website
 
 Once you have configured GitHub Pages, you can view your website by navigating to https://your-username.github.io/your-repository-name/ in your browser. You can also view your website by navigating to https://your-username.github.io/ in your browser and clicking on the link to your repository.
 
-### Step 11: Add a Custom Domain
+### Step 10: Add a Custom Domain
 
 If you want to use a custom domain for your website, you can do so by adding a CNAME file to your repository. To do this, navigate to your repository on GitHub and click on the "Settings" tab. Then, scroll down to the "GitHub Pages" section and click on the "Add custom domain" button. Enter your custom domain in the "Custom domain" field and click on the "Save" button. Finally, add a CNAME file to your repository with the following contents:
 
