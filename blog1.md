@@ -26,8 +26,8 @@ Here are the steps to deploy a web service on Django:
 
     💡 Create a new Django app within your project. An app is a module that does something specific. You can create an app using the following command:
 
-    ```python 
-    manage.py startapp myapp
+    ```console 
+    $ python3 manage.py startapp myapp
     ```
 
 4. Replace myapp with the name of your app.
@@ -39,14 +39,14 @@ Here are the steps to deploy a web service on Django:
 7.  Run the Django development server to test your web service. You can do this by running the following command:
 
     ```console
-    python manage.py runserver
+    $ python3 manage.py runserver
     ```
 
     This will start the server on http://127.0.0.1:8000/.
     You can specify the port in which the server runs by passing the port number as an argument to the runserver command. For example, to run the server on port 8080, you can run the following command:
 
      ```console
-      python manage.py runserver 8080
+     $ python3 manage.py runserver 8080
       ```
 
 
