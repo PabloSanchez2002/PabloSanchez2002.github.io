@@ -1,15 +1,6 @@
 ---
 layout: default
 ---
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-JNHZR1XMQG"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-JNHZR1XMQG');
-</script>
 ### I'm currently on my 4th year of university at U.A.M.
 ### I'm always looking for new ways to improve myself. I've always been interested in technology and been curious about how things work. I'm a person that likes to learn new things and I'm always open to learn new technologies.
 
@@ -105,13 +96,5 @@ _This is how you can reach me:_
 ## My streak stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PabloSanchez2002&theme=radical)](https://git.io/streak-stats)
 -->
-
-
-
-
-
-
-
-
 
 
