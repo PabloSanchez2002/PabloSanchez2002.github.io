@@ -54,4 +54,4 @@ Here are the steps to deploy a web service on Django:
 
 That's it! With these steps, you can create and deploy a web service on Django. Of course, there is much more to learn about Django, but this should be enough to get you started.
 
-[/back](./)
+[/back](./../)

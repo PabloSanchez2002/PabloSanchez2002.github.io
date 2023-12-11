@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 # Web page built on Github Pages
 Here you will learn how you can build your own web page just like this one, without any knowledge of backend technology or server programing.
@@ -10,9 +13,10 @@ First, you need to create a new repository on GitHub where you will host your we
 
 Next, you need to clone the repository to your local machine using Git. You can use the command line or a GUI tool like GitHub Desktop. To clone the repository using the command line, navigate to the directory where you want to save the repository and run the following command:
 
-    ```console
-    $ git clone https://github.com/your-username/your-repository-name.git
-    ```
+```
+$ git clone https://github.com/your-username/your-repository-name.git
+```
+
 
 ### Step 3: Choose a Jekyll Theme
 
@@ -35,11 +39,11 @@ With the Jekyll theme set up and configured, you can now add your own content to
 
 Once you have tested your website locally, you can push your changes to GitHub. To do this, navigate to your repository in the command line and run the following commands:
 
-    ```console
-    $ git add .
-    $ git commit -m "First commit :)"
-    $ git push origin master
-    ```
+```
+$ git add .
+$ git commit -m "First commit :)"
+$ git push origin master
+```
 
 ### Step 8: Configure GitHub Pages
 
@@ -53,11 +57,11 @@ Once you have configured GitHub Pages, you can view your website by navigating t
 
 If you want to use a custom domain for your website, you can do so by adding a CNAME file to your repository. To do this, navigate to your repository on GitHub and click on the "Settings" tab. Then, scroll down to the "GitHub Pages" section and click on the "Add custom domain" button. Enter your custom domain in the "Custom domain" field and click on the "Save" button. Finally, add a CNAME file to your repository with the following contents:
 
-    ```console
-    your-custom-domain.com
-    ```
+```
+your-custom-domain.com
+```
 
 ## And thats pretty much it! You can now build your own web page just like this one, without any knowledge of backend technology or server programing!!! :O
 
 
-[/back](./)
+[/back](./../)
