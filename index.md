@@ -20,7 +20,7 @@ _This is how you can reach me:_
 <a href="Mailto:pablosanchez2002@gmail.com" target="blank"><img src="assets/images/mail.png" alt="Google Mail" width="40" height="40"/></a> </p>
 
 ## My projects and other stuff I may make:
-<!-- ~~Sorry if my code succs I try my best :)~~ -->
+<!-- ~~Sorry if my code succs I try my best :)~~ -->  
 
 1. [Server Web using Django framework](./blogs/blog1.html).
 2. [Web page built on Github Pages](./blogs/blog2.html).
@@ -47,26 +47,22 @@ _This is how you can reach me:_
 
 <!-- ![hakr](assets/images/aa.webp) -->
 
-<head>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Square Layout</title>
-  <style>
-    /* Style for the container */
-    .square-container {
-      display: grid;
-      grid-template-columns: repeat(2, 1fr);
-      gap: 10px; /* Adjust the gap as needed */
-    }
 
-    /* Style for the square elements */
-    .square-item {
-      width: 100%;
-      padding: 20px;
-      border: 1px solid #000;
-      box-sizing: border-box;
-    }
-  </style>
-</head>
+<style>
+  /* Style for the container */
+  .square-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px; /* Adjust the gap as needed */
+  }
+
+  /* Style for the square elements */
+  .square-item {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+</style>
 
 <div class="square-container">
   <div class="square-item">
