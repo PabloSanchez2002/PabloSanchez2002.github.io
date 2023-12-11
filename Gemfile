@@ -2,8 +2,8 @@
 
 source "https://rubygems.org"
 
-gem 'jekyll-feed', '~> 0.15'
-gem 'jekyll-youtube', '~> 1.0.0'
+gem "jekyll-feed", "~> 0.15"
+gem "jekyll-youtube", "~> 1.0.0"
 
 
 gemspec
