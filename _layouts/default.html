@@ -9,7 +9,26 @@
     <link rel="icon" type="image/png" href="/assets/favicon.ico">
 {% seo %}
   </head>
+  <style>
 
+    footer {
+            padding: 10px;
+            text-align: center;
+            bottom: 0;
+            width: 100%;
+    }
+
+    footer p {
+        margin: 0;
+        color: #555;
+    }
+
+    footer a {
+        color: #555;
+        text-decoration: none;
+        margin: 0 10px;
+    }
+  </style>
   <body>
 
     <header>
@@ -20,10 +39,6 @@
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
 
         <section id="downloads">
-          {% if site.show_downloads %}
-            <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
-            <a href="{{ site.github.tar_url }}" class="btn">Download as .tar.gz</a>
-          {% endif %}
           <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
         </section>
       </div>
@@ -34,5 +49,23 @@
         {{ content }}
       </section>
     </div>
+
+    
+    <footer>
+      <p>&copy; <span id="currentYear"></span> Pablo's Portfolio All rights reserved.
+        
+    </p>
+    <a class="view">by {{ page.author | default: site.author }} </a>
+  </footer>
+
+  <script>
+      // Get the current year
+      var currentYear = new Date().getFullYear();
+      
+      // Update the content of the span with the current year
+      document.getElementById('currentYear').textContent = currentYear;
+  </script>
   </body>
+
+
 </html>

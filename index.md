@@ -16,7 +16,8 @@ _This is how you can reach me:_
 
 1. [Server Web using Django framework](./blogs/blog1.html).
 2. [Web page built on Github Pages](./blogs/blog2.html).
-3. [???](./blogs/blog0.html).
+3. [Log rotation script for server using LogRotate](./blogs/blog3.html).
+4. [???](./blogs/blog0.html).
 
 ## Some of my skills are:
 *   Problem-solving skills
