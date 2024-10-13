@@ -2,7 +2,6 @@
 layout: default
 title: "Home"
 ---
-### I'm currently on my 4th year of university at U.A.M.
 ### I'm always looking for new ways to improve myself. I've always been interested in technology and been curious about how things work. I'm a person that likes to learn new things and I'm always open to learn new technologies.
 
 _This is how you can reach me:_
